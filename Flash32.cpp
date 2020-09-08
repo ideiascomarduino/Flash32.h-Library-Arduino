@@ -5,7 +5,7 @@
  
     Administration By Paulo Ricardo L. de Sena.
     (Date 08/09/2020)
-    Progranmed By Paulo Ricardo L. de Sena
+    Programmed By Paulo Ricardo L. de Sena
     (Date 08/09/2020)
  
  
